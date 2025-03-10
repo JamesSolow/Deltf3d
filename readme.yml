@@ -1,2 +1,15 @@
 %https://content.oss.deltares.nl/delft3d/
 %Index of /delft3d
+
+Example of calibration
+https://publications.deltares.nl/11208054_000_0010.pdf
+
+3d model example
+https://publications.deltares.nl/11208054_004_0003.pdf
+
+Running model in parallel
+OPENMP or MPI 
+Exercise 9 uses openMP
+
+Quickplot user manual
+https://content.oss.deltares.nl/delft3d4/Delft3D-QUICKPLOT_User_Manual.pdf
